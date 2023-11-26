@@ -63,10 +63,10 @@ plt.show()
 # plt.show()
 
 
-plt.figure()
-plt.scatter(timeV,ax)
-plt.show()
-plt.suptitle('Ax Acceleration')
+# plt.figure()
+# plt.scatter(timeV,ax)
+# plt.show()
+# plt.suptitle('Ax Acceleration')
 
 fig, ax = plt.subplots()
 scat = ax.scatter(x[0], y[0], c="b", s=5)
